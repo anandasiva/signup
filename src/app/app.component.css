@@ -1,0 +1,15 @@
+.siva{
+    width:100%;
+    height:700px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color:brown;
+}
+
+.siva1{
+    width:500px;
+    height:600px;
+    background-color: rgb(210,202,202);
+
+}
